@@ -1,7 +1,7 @@
 {
-  "name": "blockly-stats-for-nerds",
+  "name": "blockly-plugin-stats-for-nerds",
   "version": "1.0.0",
-  "description": "A Blockly plugin.",
+  "description": "A Blockly plugin that displays workspace Stats For Nerds!",
   "scripts": {
     "audit:fix": "blockly-scripts auditFix",
     "build": "blockly-scripts build",
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pavi2410/blockly-plugin-stats-for-nerds.git",
+    "url": "git+https://github.com/pavi2410/blockly-plugin-stats-for-nerds.git",
     "directory": "stats-for-nerds"
   },
   "license": "Apache-2.0",

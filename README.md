@@ -1,4 +1,4 @@
-# blockly-stats-for-nerds [![Built on Blockly](https://tinyurl.com/built-on-blockly)](https://github.com/google/blockly)
+# blockly-plugin-stats-for-nerds [![Built on Blockly](https://tinyurl.com/built-on-blockly)](https://github.com/google/blockly)
 
 A [Blockly](https://www.npmjs.com/package/blockly) plugin that displays workspace Stats For Nerds!
 
